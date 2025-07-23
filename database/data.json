@@ -1,0 +1,106 @@
+{
+    "users": [
+        {
+            "telegram_id": 5895818044,
+            "username": "firdavsbek_abduganiyev",
+            "first_name": "Firdavs",
+            "last_name": "Abdug'aniyev \ud83e\udd85",
+            "playlist": [
+                {
+                    "name": "Workout Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Chill Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Study Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Party Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Favorites",
+                    "songs": []
+                }
+            ]
+        },
+        {
+            "telegram_id": 6253044065,
+            "username": "maqsudjoooon",
+            "first_name": "MAQSUD",
+            "last_name": null,
+            "playlist": [
+                {
+                    "name": "Workout Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Chill Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Study Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Party Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Favorites",
+                    "songs": []
+                }
+            ]
+        },
+        {
+            "telegram_id": 1258594598,
+            "username": "diyorbek_jumanov",
+            "first_name": "Diyorbek",
+            "last_name": "Jumanov",
+            "playlist": [
+                {
+                    "name": "Workout Playlist",
+                    "songs": [
+                        {
+                            "file_id": "CQACAgIAAxkBAAIBZmiBLYjxVlNkWnyPcT5M-D6RHTR7AAIjCQACI_c5S8NZtnE0RhRZNgQ"
+                        }
+                    ]
+                },
+                {
+                    "name": "Chill Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Study Playlist",
+                    "songs": [
+                        {
+                            "file_id": "CQACAgIAAxkBAAIBZmiBLYjxVlNkWnyPcT5M-D6RHTR7AAIjCQACI_c5S8NZtnE0RhRZNgQ"
+                        },
+                        {
+                            "file_id": "CQACAgIAAxkBAAIBZmiBLYjxVlNkWnyPcT5M-D6RHTR7AAIjCQACI_c5S8NZtnE0RhRZNgQ"
+                        },
+                        {
+                            "file_id": "CQACAgQAAxkBAAIBUGiBLJ4FAAFcpDZYCzk5uh0osTlnMgACcRcAAjLgcFGISrn2lkxX7zYE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Party Playlist",
+                    "songs": []
+                },
+                {
+                    "name": "Favorites",
+                    "songs": [
+                        {
+                            "file_id": "CQACAgQAAxkBAAIBUGiBLJ4FAAFcpDZYCzk5uh0osTlnMgACcRcAAjLgcFGISrn2lkxX7zYE"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
